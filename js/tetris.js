@@ -21,8 +21,12 @@ var shapes = [
     [ 0, 1, 0, 0,
       1, 1, 1 ]
 ];
+//var colors = [
+    //'cyan', 'orange', 'blue', 'yellow', 'red', 'lime', 'purple'
+//];
+
 var colors = [
-    'cyan', 'orange', 'blue', 'yellow', 'red', 'green', 'purple'
+    'white', 'white', 'white', 'white', 'white', 'white', 'white'
 ];
 
 // creates a new 4x4 shape in global variable 'current'
